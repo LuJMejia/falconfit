@@ -1,0 +1,88 @@
+body {background-color: black;"
+  }
+
+* {font-family: Montserrat;
+}
+
+
+/* CABECERA */
+
+.logo {padding: 15px;
+	margin: 15px;
+}
+
+/* CABECERA */
+
+/* MENU */
+
+.lista {text-decoration: none;
+	color: yellow;
+	font-size: 15px;
+	margin: 15px;
+	padding: 15px;
+	}
+
+#menu {
+	list-style-type: none;
+	 margin: 15px;
+  	padding: 15px;
+  	float: right;
+  	display: inline;
+}
+
+nav li {display:inline-block;
+   }
+
+/* TERMINA MENU */
+
+
+/* CONTENIDO */
+#hombre {display:inline-block;
+		padding-right: 20px;}
+
+#boton {text-align: center;
+  background: white;
+  color: black;
+  padding: 15px;
+  border-radius: 30px;
+  border: 0;
+  margin: 0;
+  cursor: pointer;
+  margin: 15px;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+a {color: white;}
+
+p{color: white;}
+
+h1 {color:  white;
+	font-size: 90px;
+	margin-top: 25px;
+	margin-left:25px;
+	margin-bottom: 0px;
+
+	}
+
+h5 {color:  white;
+	margin-top:0px;
+	padding-left: 25px;
+padding-top: 0px;}
+
+/* CONTENIDO */
+
+
+/* fOOTER */
+
+.fin {font-size: 15px;
+	list-style-type: none;
+	padding: 15px;
+}
+
+.letrafooter {display:inline-block;
+margin: 5px;
+padding-top: 80px;}
+
+/* fOOTER */
